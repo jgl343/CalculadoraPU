@@ -1,3 +1,0 @@
-languaje: java
-jdk: oraclejdk8
-script: mvn clean test -f ejemploUnitario/pom.xml
